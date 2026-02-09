@@ -35,6 +35,10 @@ Por favor, escribe en impersonal las respuestas.
 
 	Finalmente, C# es un lenguaje moderno diseñado por Microsoft que adopta la POO como eje central, con características avanzadas y un diseño similar al de Java. Estos lenguajes son ampliamente utilizados en la industria, lo que los convierte en buenas opciones para aprender y practicar conceptos de orientación a objetos. 💻
 
+	También destacan otros como Rust.
+
+	Estos lenguajes se pueden diferenciar, entre otras cosas, por que algunos tienen "Garbage Colector" y otros no.
+
 ## 3. Los paradigmas anteriores a la POO, ¿Qué es la **programación estructurada**? y, todavía mejor, ¿Qué es la **programación modular**?
 
 ### Respuesta
